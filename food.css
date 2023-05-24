@@ -1,0 +1,154 @@
+
+.img{
+  background-image: url('image/3.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+/*navbar*/
+.container-fluid{
+  padding-left: 0px;
+  font-family:"  montserrat" ,sans-serif;
+  font-weight: bold;
+}
+.navbar-nav{
+  margin-left: 70%;
+  font-family: " meriweather" ,sans-serif;
+display: flex;
+
+}
+
+
+.btn-btn-warning{
+  font-weight:bold;
+  border: none;
+  margin-bottom: 70px;
+}
+
+.good-food{
+  color: white;
+  text-align: center;
+  padding-top: 20%;
+}
+
+.our-story{
+  background-color: #2C3333;
+  color: white;
+    padding-top: 8%;
+    padding-bottom: 10%;
+
+
+}
+.photo{
+  padding-left: : 100px;
+  padding-right: 400px;
+  float: left;
+}
+
+.img1{
+  padding-left: : 100px;
+  padding-right: 400px;
+  float: left;
+
+}
+.img4{
+    height: 260px;
+    width: 194px;
+}
+
+.img3{
+    height: 260px;
+    width: 194px;
+}
+.our-img2{
+  padding-bottom: 10%;
+  padding-right: 40%;
+}
+
+#photo{
+  padding-left: 100px;
+  padding-right: 200px;
+  float: left;
+  image-resolution: 600px 300px;
+}
+
+.story-heading{
+float: top;
+}
+
+.containt{
+  /* margin-left: 58%; */
+    line-height: 1.5;
+    float: top;
+}
+
+        /* testimonial*/
+
+        .all-testo{
+          padding-top: 10px;
+          background-color:  #2C3333;
+          color: white;
+        }
+
+
+  /*discover taste*/
+  .discover-taste{
+      padding-top: 9%;
+      background-color: #2C3333;
+      color: white;
+      padding-left: 10%;
+  }
+
+  .cafe-img{
+
+    background-color: #2C3333;
+    color: white;
+    padding-left: 60%;
+
+  }
+
+  .balck-white{
+    height: 500px;
+    widht:300px;
+  }
+
+  .spices{
+    background-color: #2C3333;
+    color: white;
+    padding-left: 31%;
+    padding-top: 150px;
+  padding-bottom: 10px;
+
+  }
+
+  .spices-img{
+    height:250px;
+    width: 600px;
+  }
+
+  .masale h2{
+    padding-left: 10%;
+  }
+  .contact{
+    background-color: #2C3333;
+    color: white;
+    margin-left: auto;
+    padding-bottom: 7%;
+    padding-top: 5%;
+    text-align: center;
+  }
+
+.time{
+  background-color: #2C3333;
+  color: white;
+  text-align: center;
+  padding-bottom: 3%;
+  padding-top: 6%;
+}
+.footer{
+  padding-top: 2%;
+  background-color: #2C3333;
+  color: white;
+  text-align: center;
+
+}
